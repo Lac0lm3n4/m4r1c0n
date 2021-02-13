@@ -21,7 +21,6 @@ elif [[ $opcion == "02" || $opcion == "2" ]]; then
 	cuentas
 elif [[ $opcion == "03" || $opcion == "3" ]]; then
 	ccs
-
 }
 
 function cc(){
