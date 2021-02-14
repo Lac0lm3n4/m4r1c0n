@@ -17,10 +17,10 @@ ls
 
 y damos los permisos.
 
-chmod 777 maricon.sh
+chmod 777 maricon2.sh
 
 y ejecutamos con:
 
-bash maricon.sh
+bash maricon2.sh
 
 NO NOS HACEMOS RESPONSABLES DEL USO DE ESTA HERRAMIENTA.
